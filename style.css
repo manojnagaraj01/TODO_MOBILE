@@ -170,7 +170,6 @@ hr{
     justify-content: center;
     background-color: #FFFFFF;
 } 
-
 @media screen and (min-width:250px) and (max-width:500px) {
     .parent{
      width: 100%;
