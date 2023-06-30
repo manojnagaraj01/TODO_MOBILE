@@ -162,7 +162,7 @@ hr{
 }
 .item_button1{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-size: 30px;
 }
 .item_head1{
@@ -170,12 +170,7 @@ hr{
     justify-content: center;
     background-color: #FFFFFF;
 } 
-.back{
-    position: absolute;
-    display: flex;
-    top: 110px;
-    left: 478px;
-}
+
 @media screen and (min-width:250px) and (max-width:500px) {
     .parent{
      width: 100%;
